@@ -44,7 +44,7 @@ class Tv {
     }
     mute(){
         this.volume = 0;
-        console.log(this.name +' Garsas Uzmutintas '); 
+        console.log(this.name +' Garsas uzmutintas '); 
     }
 }
 
